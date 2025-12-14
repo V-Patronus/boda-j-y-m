@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Acceso - Control de Invitados</title>
+  <link rel="stylesheet" href="css/control.css" />
+</head>
+<body>
+  <div class="login-box">
+    <h2>Control de Invitados</h2>
+    <p>Ingrese la contraseña para acceder:</p>
+    <input type="password" id="password" placeholder="Contraseña" />
+    <button onclick="verificar()">Entrar</button>
+    <p id="error" class="error"></p>
+  </div>
+
+  <script>
+    function verificar() {
+      const pass = document.getElementById('password').value;
+      if (pass === 'boda27122025') {
+        localStorage.setItem('autorizado', 'si');
+        window.location.href = 'control.html';
+      } else {
+        document.getElementById('error').textContent = 'Contraseña incorrecta';
+      }
+    }
+  </script>
+</body>
+</html>

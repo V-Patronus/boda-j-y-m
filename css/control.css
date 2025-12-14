@@ -1,0 +1,209 @@
+/* ---------- ROOT + FUENTES ---------- */
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&family=Quicksand:wght@400;600&display=swap');
+
+:root {
+  --rojo-neon  : #ff2a6d;
+  --azul-neon  : #05d9e8;
+  --fondo      : #0f0f1b;
+  --fuente1    : 'Quicksand', cursive;
+  --fuente2    : 'Quicksand', sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: var(--fuente2);
+  background: var(--fondo);
+  color: #fff;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+/* ---------- LOGIN ---------- */
+.login-box {
+  background: rgba(0, 0, 0, .4);
+  border: 1px solid var(--azul-neon);
+  box-shadow: 0 0 15px var(--azul-neon), inset 0 0 15px var(--azul-neon);
+  border-radius: 12px;
+  padding: 40px 30px;
+  width: 90%;
+  max-width: 400px;
+  text-align: center;
+}
+
+.login-box h2 {
+  font-family: var(--fuente1);
+  font-size: 2.4rem;
+  color: var(--rojo-neon);
+  text-shadow: 0 0 10px var(--rojo-neon);
+  margin-bottom: 20px;
+}
+
+.login-box input {
+  width: 100%;
+  padding: 12px 15px;
+  margin: 15px 0;
+  border: 1px solid var(--azul-neon);
+  border-radius: 6px;
+  background: transparent;
+  color: #fff;
+  font-size: 1rem;
+  outline: none;
+  box-shadow: 0 0 5px var(--azul-neon), inset 0 0 5px var(--azul-neon);
+}
+
+.login-box button {
+  width: 100%;
+  padding: 12px;
+  border: none;
+  border-radius: 6px;
+  background: var(--rojo-neon);
+  color: #fff;
+  font-weight: 600;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: .3s;
+  box-shadow: 0 0 10px var(--rojo-neon);
+}
+
+.login-box button:hover {
+  background: #ff5486;
+  box-shadow: 0 0 20px var(--rojo-neon);
+}
+
+.error {
+  color: #ff2a6d;
+  margin-top: 10px;
+  text-shadow: 0 0 5px #ff2a6d;
+}
+
+/* ---------- CONTROL (TABLAS) ---------- */
+#tablas {
+  width: 90%;
+  max-width: 1200px;
+  margin: 40px auto;
+}
+
+.mesa-box {
+  background: rgba(0, 0, 0, .35);
+  border: 1px solid var(--azul-neon);
+  border-radius: 12px;
+  padding: 25px;
+  margin-bottom: 30px;
+  box-shadow: 0 0 15px var(--azul-neon);
+}
+
+.mesa-box h2 {
+  font-family: var(--fuente1);
+  font-size: 2rem;
+  color: var(--rojo-neon);
+  text-shadow: 0 0 10px var(--rojo-neon);
+  margin-bottom: 15px;
+}
+
+.total {
+  font-weight: normal;
+  font-size: 1.2rem;
+  color: var(--azul-neon);
+  text-shadow: 0 0 5px var(--azul-neon);
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th, td {
+  padding: 10px 15px;
+  text-align: left;
+}
+
+th {
+  color: var(--azul-neon);
+  text-transform: uppercase;
+  font-size: .9rem;
+  letter-spacing: 1px;
+  border-bottom: 1px solid var(--azul-neon);
+}
+
+td {
+  border-bottom: 1px solid rgba(5, 217, 232, .2);
+}
+
+.btn-copiar {
+  background: transparent;
+  border: 1px solid var(--rojo-neon);
+  color: var(--rojo-neon);
+  padding: 6px 14px;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: .3s;
+  box-shadow: 0 0 5px var(--rojo-neon);
+}
+
+.btn-copiar:hover {
+  background: var(--rojo-neon);
+  color: #fff;
+  box-shadow: 0 0 15px var(--rojo-neon);
+}
+
+/* ---------- 404 ---------- */
+.page-404 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.neon-wrapper {
+  padding: 40px;
+}
+
+.neon-title {
+  font-family: var(--fuente1);
+  font-size: 6rem;
+  color: #fff;
+  text-shadow:
+    0 0 5px #fff,
+    0 0 10px var(--rojo-neon),
+    0 0 20px var(--rojo-neon),
+    0 0 40px var(--rojo-neon);
+  margin-bottom: 20px;
+}
+
+.neon-sub {
+  font-size: 1.5rem;
+  margin-bottom: 10px;
+  color: var(--azul-neon);
+  text-shadow: 0 0 8px var(--azul-neon);
+}
+
+.neon-desc {
+  font-size: 1rem;
+  margin-bottom: 30px;
+  opacity: .8;
+}
+
+.neon-btn {
+  display: inline-block;
+  padding: 12px 30px;
+  border: 1px solid var(--azul-neon);
+  border-radius: 6px;
+  color: var(--azul-neon);
+  text-decoration: none;
+  transition: .3s;
+  box-shadow: 0 0 10px var(--azul-neon);
+}
+
+.neon-btn:hover {
+  background: var(--azul-neon);
+  color: #0f0f1b;
+  box-shadow: 0 0 20px var(--azul-neon);
+}
