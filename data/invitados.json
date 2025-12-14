@@ -23,7 +23,7 @@
   {"id": "matrimonio-mairena-moran", "nombre": "Matrimonio Mairena Moran", "mesa": 5, "total": 2},
   {"id": "karelia-mairena-y-familia", "nombre": "Karelia Mairena y Familia", "mesa": 5, "total": 3},
   {"id": "anerian-mairena-y-familia", "nombre": "Anerian Mairena y Familia", "mesa": 5, "total": 3},
-  {"id": "arsenio-poveda-y-esposa", "nombre": "Arsenio Poveda y Esposa", "mesa": 5, "total": 2},
+  {"id": "bladimir", "nombre": "Bladimir Mairena", "mesa": 5, "total": 1},
   {"id": "matrimonio-mairena-rugama", "nombre": "Matrimonio Mairena Rugama", "mesa": 6, "total": 2},
   {"id": "marvin-mairena-y-familia", "nombre": "Marvin Mairena y familia", "mesa": 6, "total": 4},
   {"id": "joel-carrero-y-familia", "nombre": "Joel Carrero y familia", "mesa": 6, "total": 4},
@@ -36,7 +36,6 @@
   {"id": "gerald-morales-y-familia", "nombre": "Gerald Morales y familia", "mesa": 9, "total": 4},
   {"id": "guadalupe-mendoza-y-familia", "nombre": "Guadalupe Mendoza y familia", "mesa": 9, "total": 2},
   {"id": "everto-garcia-y-familia", "nombre": "Everto Garcia y familia", "mesa": 9, "total": 3},
-  {"id": "bladimir", "nombre": "Bladimir Mairena", "mesa": 9, "total": 1},
   {"id": "leoncio-y-jackarelly", "nombre": "Leoncio y Jackarelly", "mesa": 10, "total": 2},
   {"id": "ramona-morales", "nombre": "Ramona Morales", "mesa": 10, "total": 3},
   {"id": "senorita-camila", "nombre": "Señorita Camila", "mesa": 10, "total": 1},
@@ -63,6 +62,7 @@
   {"id": "hellen-aguilar", "nombre": "Hellen Aguilar", "mesa": 14, "total": 1},
   {"id": "nohema-castillo", "nombre": "Nohema Castillo", "mesa": 14, "total": 1},
   {"id": "suemy-y-familia", "nombre": "Suemy y familia", "mesa": 14, "total": 4},
+  {"id": "arsenio-poveda-y-esposa", "nombre": "Arsenio Poveda y Esposa", "mesa": 15, "total": 2},
   {"id": "regina-y-familia", "nombre": "Regina y familia", "mesa": 15, "total": 3},
   {"id": "rudy-y-familia", "nombre": "Rudy y familia", "mesa": 15, "total": 3}
 ]
