@@ -44,8 +44,8 @@
   {"id": "milton-duarte", "nombre": "Milton duarte", "mesa": 10, "total": 1},
   {"id": "audelia-gomez", "nombre": "Audelia Gomez", "mesa": 10, "total": 1},
   {"id": "julio-gomez", "nombre": "Julio Gomez", "mesa": 10, "total": 1},
-  {"id": "oscar-corea-y-esposa", "nombre": "Oscar Corea y Esposa", "mesa": 11, "total": 2},
-  {"id": "arlen-y-esposa", "nombre": "Arlen y Esposa", "mesa": 11, "total": 2},
+  {"id": "katherin-gomez-y-acompanante", "nombre": "Katherin Gomez y Acompañante", "mesa": 11, "total": 2},
+  {"id": "arsenio-poveda-y-esposa", "nombre": "Arsenio Poveda y Esposa", "mesa": 11, "total": 2},
   {"id": "mariana-y-marianita-gomez", "nombre": "Mariana y Marianita Gomez", "mesa": 11, "total": 2},
   {"id": "santo-flores-y-esposa", "nombre": "Santo Flores y esposa", "mesa": 11, "total": 2},
   {"id": "lorenza-mairena", "nombre": "Lorenza Mairena", "mesa": 11, "total": 1},
@@ -57,13 +57,14 @@
   {"id": "jullio-moreno", "nombre": "Jullio Moreno", "mesa": 12, "total": 1},
   {"id": "omar-balladares-y-esposa", "nombre": "Omar Balladares y Esposa", "mesa": 13, "total": 2},
   {"id": "roberto-suarez-y-acompanante", "nombre": "Roberto Suarez y Acompañante", "mesa": 13, "total": 2},
-  {"id": "musicos", "nombre": "Musicos", "mesa": 13, "total": 6},
-  {"id": "katherin-gomez-y-acompanante", "nombre": "Katherin Gomez y Acompañante", "mesa": 14, "total": 2},
+  {"id": "oscar-corea-y-esposa", "nombre": "Oscar Corea y Esposa", "mesa": 13, "total": 2},
+  {"id": "arlen-y-esposa", "nombre": "Arlen y Esposa", "mesa": 13, "total": 2},
+  {"id": "rudy-y-familia", "nombre": "Rudy y esposa", "mesa": 13, "total": 3},
   {"id": "lorenzo-y-acompanante", "nombre": "Lorenzo y Acompañante", "mesa": 14, "total": 2},
   {"id": "hellen-aguilar", "nombre": "Hellen Aguilar", "mesa": 14, "total": 1},
   {"id": "nohema-castillo", "nombre": "Nohema Castillo", "mesa": 14, "total": 1},
   {"id": "suemy-y-familia", "nombre": "Suemy y familia", "mesa": 14, "total": 4},
-  {"id": "arsenio-poveda-y-esposa", "nombre": "Arsenio Poveda y Esposa", "mesa": 15, "total": 2},
-  {"id": "regina-y-familia", "nombre": "Regina y familia", "mesa": 15, "total": 3},
-  {"id": "rudy-y-familia", "nombre": "Rudy y familia", "mesa": 15, "total": 3}
+  {"id": "musicos", "nombre": "Musicos", "mesa": 15, "total": 6},
+  {"id": "regina-y-familia", "nombre": "Regina y familia", "mesa": 15, "total": 3}
+  
 ]
