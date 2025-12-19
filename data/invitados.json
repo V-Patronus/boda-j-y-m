@@ -1,6 +1,6 @@
 [
-  {"id": "martha-garcia-y-oswaldo", "nombre": "Martha García y Oswaldo", "mesa": 1, "total": 2},
   {"id": "wilber-leyton-y-familia", "nombre": "Wilber Leyton y Familia", "mesa": 1, "total": 3},
+  {"id": "melania-mairena", "nombre": "Melania Mairena", "mesa": 1, "total": 2},
   {"id": "francisca-mairena", "nombre": "Francisca Mairena", "mesa": 1, "total": 1},
   {"id": "dona-xiomara", "nombre": "Doña Xiomara", "mesa": 1, "total": 1},
   {"id": "martha-maradiaga", "nombre": "Martha Maradiaga", "mesa": 1, "total": 1},
@@ -59,11 +59,12 @@
   {"id": "roberto-suarez-y-acompanante", "nombre": "Roberto Suarez y Acompañante", "mesa": 13, "total": 2},
   {"id": "oscar-corea-y-esposa", "nombre": "Oscar Corea y Esposa", "mesa": 13, "total": 2},
   {"id": "arlen-y-esposa", "nombre": "Arlen y Esposa", "mesa": 13, "total": 2},
-  {"id": "rudy-y-familia", "nombre": "Rudy y esposa", "mesa": 13, "total": 3},
+  {"id": "rudy-y-familia", "nombre": "Rudy y esposa", "mesa": 13, "total": 2},
   {"id": "lorenzo-y-acompanante", "nombre": "Lorenzo y Acompañante", "mesa": 14, "total": 2},
   {"id": "hellen-aguilar", "nombre": "Hellen Aguilar", "mesa": 14, "total": 1},
   {"id": "nohema-castillo", "nombre": "Nohema Castillo", "mesa": 14, "total": 1},
   {"id": "suemy-y-familia", "nombre": "Suemy y familia", "mesa": 14, "total": 4},
+  {"id": "martha-garcia-y-oswaldo", "nombre": "Martha García y Oswaldo", "mesa": 14, "total": 2},
   {"id": "musicos", "nombre": "Musicos", "mesa": 15, "total": 6},
   {"id": "regina-y-familia", "nombre": "Regina y familia", "mesa": 15, "total": 3}
   
